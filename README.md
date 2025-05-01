@@ -18,6 +18,7 @@ If you believe there is a copyright issue, feel free to contact me.
 - `map_creator.py` -> A dynamic map creator file for game map(for `settings/map.json`)[You should copy that's files output to `settings/map.json` manually].
 - `mapbiom.py` -> A dynamic map biom creator for game map[You should copy that's files output to `settings/map.json` manually].
 - `noo.py` -> For renaming and numbering file for sliced sheets[This file not necessary || used on development process].
+- `color.py` -> For edit the specified file according to the specified color palette
 
 ## Special Features
 - Dynamic/editable map system.
